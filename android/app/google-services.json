@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "780139794040",
+    "firebase_url": "https://project-alex-8bb9d.firebaseio.com",
+    "project_id": "project-alex-8bb9d",
+    "storage_bucket": "project-alex-8bb9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780139794040:android:c65bc193da17d4abfea78d",
+        "android_client_info": {
+          "package_name": "com.example.project_alex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780139794040-pj75hg85563tv4gslv3n9ge61hemifad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2sdqFB6WQ_KB4Ra0y8xPVkLnaga-fMBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780139794040-pj75hg85563tv4gslv3n9ge61hemifad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
